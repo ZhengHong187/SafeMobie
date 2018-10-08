@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CoolMarketDemo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="click_login">生命中的过客你好</string>
+    <string name="hint_name">用户名/Email/手机号</string>
+    <string name="hint_password">密码</string>
+
+    <string name="user_login">用户登录</string>
+    <string name="login">登录</string>
+    <string name="error_login_empty">用户名/Email/手机号不能为空</string>
+    <string name="error_pswd_empty">密码不能为空</string>
+    <string name="snackbar_indefinitely">无限期显示Snackbar</string>
+    <string name="snackbar_long">在Long时间段内显示Snackbar</string>
+    <string name="snackbar_short">在short时间段内显示Snackbar</string>
+    <string name="snackbar_action">设置Snackbar的action</string>
+    <string name="snackbar_color">自定义Snackbar的文字颜色</string>
+
+    <string name="text_Marquee">菩提本无树，明镜亦非台。佛性常清净，何处有尘埃！心是菩提树，身为明镜台。明镜本清净，何处染尘埃！菩提本无树，明镜亦非台。本来无一物，何处惹尘埃！菩提只向心觅，何劳向外求玄？</string>
+</resources>
